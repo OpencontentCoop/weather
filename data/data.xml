@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Previsione>
+<Pubblicato>05/02/2015</Pubblicato> 
+<ProssimaEmissione>06/02/2015</ProssimaEmissione> 
+<CodicePrevisore>GLT</CodicePrevisore> 
+<EvoluzioneTempo>Gli effetti di un sistema depressionario attualmente sul Tirreno interesseranno anche la nostra regione con precipitazioni moderate diffuse per giovedì e venerdì. Da sabato miglioramento e da domenica presenza di vento forte da nord.</EvoluzioneTempo> 
+<Oggi>
+<Data>05/02/2015</Data>
+<CieloDesc>  coperto con precipitazioni inizialmente deboli diffuse in montagna e sparse in valle; in serata perlopiù moderate diffuse; limite neve mediamente fra 300 e 600 m</CieloDesc> 
+<PrecProb>alta</PrecProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Diffusi/e</PrecEstens> 
+<PrecInten>Moderata</PrecInten> 
+<TempDesc>massime in flessione</TempDesc> 
+<TempMaxValle>5</TempMaxValle> 
+<TempMaxQuota>-4</TempMaxQuota> 
+<ZeroTermico12>900 m</ZeroTermico12> 
+<VentiDesc>in valle deboli o moderati dai quadranti orientali; in quota da moderati a forti</VentiDesc> 
+<VentoProvQuota>SE</VentoProvQuota> 
+<VentoIntenQuota>Moderato</VentoIntenQuota> 
+<VentoProvValle>E</VentoProvValle> 
+<VentoIntenValle>Moderato</VentoIntenValle> 
+<imgtrentino>http://www.meteotrentino.it/bollettini/today/img/generale/imgOggi_IT.png</imgtrentino>
+<desciconaNW>Coperto con nevicate deboli</desciconaNW>
+<desciconaNE>Coperto con nevicate deboli</desciconaNE>
+<desciconaS>Coperto con moderate piogge/nevicate</desciconaS>
+<iconaNW>http://www.meteotrentino.it/bollettini/today/icometeo/ico6_0_0.png</iconaNW>
+<iconaNE>http://www.meteotrentino.it/bollettini/today/icometeo/ico6_0_0.png</iconaNE>
+<iconaS>http://www.meteotrentino.it/bollettini/today/icometeo/ico9_0_0.png</iconaS>
+</Oggi>
+<Domani>
+<Data>06/02/2015</Data>
+<CieloDesc>coperto con precipitazioni diffuse perlopiù moderate, in attenuazione in serata; limite neve mediamente fra 400 e 700 m.</CieloDesc> 
+<PrecipProb>alta</PrecipProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Diffusi/e</PrecEstens> 
+<PrecInten>Moderata</PrecInten> 
+<TempDesc>minime stazionarie, massime stazionarie o in lieve aumento</TempDesc>     
+<TempMinValle>0</TempMinValle> 
+<TempMinQuota>-4</TempMinQuota> 
+<TempMaxValle>6</TempMaxValle> 
+<TempMaxQuota>-2</TempMaxQuota> 
+<ZeroTermico00>1400 m</ZeroTermico00> 
+<ZeroTermico12>1100 m</ZeroTermico12> 
+<VentiDesc>moderato dai quadranti orientali, fino a forti in quota</VentiDesc> 
+<VentoValleProv>E</VentoValleProv> 
+<VentoValleInten>Moderato</VentoValleInten> 
+<VentoQuotaProv>E</VentoQuotaProv> 
+<VentoQuotaInten>Forte</VentoQuotaInten> 
+<imgtrentino>http://www.meteotrentino.it/bollettini/today/img/generale/imgDomani00_1_IT.png</imgtrentino>
+<desciconaNW00>Coperto con nevicate deboli</desciconaNW00>
+<desciconaNE00>Coperto con nevicate deboli</desciconaNE00>
+<desciconaS00>Coperto con deboli piogge/nevicate</desciconaS00>
+<iconaNW00>http://www.meteotrentino.it/bollettini/today/icometeo/ico6_0_0.png</iconaNW00>
+<iconaNE00>http://www.meteotrentino.it/bollettini/today/icometeo/ico6_0_0.png</iconaNE00>
+<iconaS00>http://www.meteotrentino.it/bollettini/today/icometeo/ico5_0_0.png</iconaS00>
+<imgtrentino2>http://www.meteotrentino.it/bollettini/today/img/generale/imgDomani12_1_IT.png</imgtrentino2>
+<desciconaNW12>Coperto</desciconaNW12>
+<desciconaNE12>Coperto con nevicate deboli</desciconaNE12>
+<desciconaS12>Coperto con deboli piogge/nevicate</desciconaS12>
+<iconaNW12>http://www.meteotrentino.it/bollettini/today/icometeo/ico1_0_0.png</iconaNW12>
+<iconaNE12>http://www.meteotrentino.it/bollettini/today/icometeo/ico6_0_0.png</iconaNE12>
+<iconaS12>http://www.meteotrentino.it/bollettini/today/icometeo/ico5_0_0.png</iconaS12>	
+</Domani>  
+<DopoDomani>
+<Data>07/02/2015</Data>
+<CieloDesc>inizialmente nuvoloso con rapide schiarite.</CieloDesc> 
+<PrecipProb>bassa</PrecipProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Isolati/e</PrecEstens> 
+<PrecInten>Debole</PrecInten> 
+<TempDesc>minime in flessione, massime in aumento</TempDesc>     
+<TempMinValle>-1</TempMinValle> 
+<TempMinQuota>-6</TempMinQuota> 
+<TempMaxValle>9</TempMaxValle> 
+<TempMaxQuota>-1</TempMaxQuota> 
+<ZeroTermico00>1000 m</ZeroTermico00> 
+<ZeroTermico12>1300 m</ZeroTermico12> 
+<VentiDesc>in valle deboli variabili, in quota moderati nordorientali</VentiDesc> 
+<VentoValleProv>variabile</VentoValleProv> 
+<VentoValleInten>Debole</VentoValleInten> 
+<VentoQuotaProv>NE</VentoQuotaProv> 
+<VentoQuotaInten>Moderato</VentoQuotaInten> 
+<imgtrentino>http://www.meteotrentino.it/bollettini/today/img/generale/imgDomani00_2_IT.png</imgtrentino>
+<desciconaNW00>Nuvoloso</desciconaNW00>
+<desciconaNE00>Nuvoloso</desciconaNE00>
+<desciconaS00>Nuvoloso</desciconaS00>
+<iconaNW00>http://www.meteotrentino.it/bollettini/today/icometeo/ico19_0_0.png</iconaNW00>
+<iconaNE00>http://www.meteotrentino.it/bollettini/today/icometeo/ico19_0_0.png</iconaNE00>
+<iconaS00>http://www.meteotrentino.it/bollettini/today/icometeo/ico19_0_0.png</iconaS00>
+<imgtrentino2>http://www.meteotrentino.it/bollettini/today/img/generale/imgDomani12_2_IT.png</imgtrentino2>
+<desciconaNW12>Poco nuvoloso</desciconaNW12>
+<desciconaNE12>Poco nuvoloso</desciconaNE12>
+<desciconaS12>Poco nuvoloso</desciconaS12>
+<iconaNW12>http://www.meteotrentino.it/bollettini/today/icometeo/ico25_0_0.png</iconaNW12>
+<iconaNE12>http://www.meteotrentino.it/bollettini/today/icometeo/ico25_0_0.png</iconaNE12>
+<iconaS12>http://www.meteotrentino.it/bollettini/today/icometeo/ico25_0_0.png</iconaS12>	
+</DopoDomani>  
+<GiorniSuccessivi>
+<Data>08/02/2015</Data>
+<CieloDesc>perlopiù soleggiato con rinforzo dei venti da nord, specie in quota </CieloDesc> 
+<PrecipProb>bassa</PrecipProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Isolati/e</PrecEstens> 
+<PrecInten>Debole</PrecInten> 
+<TempMaxValle>8</TempMaxValle> 
+<TempMinValle>-2</TempMinValle> 
+<ZeroTermico12>1200 m</ZeroTermico12> 
+<VentoValleProv00>N</VentoValleProv00> 
+<VentoValleInten00>Forte</VentoValleInten00> 
+<descicona>Poco nuvoloso</descicona>
+<icona>http://www.meteotrentino.it/bollettini/today/icometeo/ico25_0_0.png</icona>	
+</GiorniSuccessivi>
+<GiorniSuccessivi>
+<Data>09/02/2015</Data>
+<CieloDesc>soleggiato con venti settentrionali forti, specie in quota</CieloDesc> 
+<PrecipProb>molto bassa</PrecipProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Isolati/e</PrecEstens> 
+<PrecInten>Debole</PrecInten> 
+<TempMaxValle>7</TempMaxValle> 
+<TempMinValle>-3</TempMinValle> 
+<ZeroTermico12>500 m</ZeroTermico12> 
+<VentoValleProv00>N</VentoValleProv00> 
+<VentoValleInten00>Forte</VentoValleInten00> 
+<descicona>Poco nuvoloso</descicona>
+<icona>http://www.meteotrentino.it/bollettini/today/icometeo/ico25_0_0.png</icona>	
+</GiorniSuccessivi>
+<GiorniSuccessivi>
+<Data>10/02/2015</Data>
+<CieloDesc>soleggiato con venti da nord in attenuazione</CieloDesc> 
+<PrecipProb>molto bassa</PrecipProb> 
+<TemporaliProb>--</TemporaliProb> 
+<PrecEstens>Isolati/e</PrecEstens> 
+<PrecInten>Debole</PrecInten> 
+<TempMaxValle>7</TempMaxValle> 
+<TempMinValle>-2</TempMinValle> 
+<ZeroTermico12>1400 m</ZeroTermico12> 
+<VentoValleProv00>N</VentoValleProv00> 
+<VentoValleInten00>Moderato</VentoValleInten00> 
+<descicona>Sereno</descicona>
+<icona>http://www.meteotrentino.it/bollettini/today/icometeo/ico18_0_0.png</icona>	
+</GiorniSuccessivi>
+</Previsione>
