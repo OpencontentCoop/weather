@@ -8,9 +8,9 @@ define( "EZ_DATATYPESTRING_WEATHER", "weather" );
 
 class weathertype extends eZDataType
 {
-   	function weathertype()
+   	function __construct()
    	{
-       	$this->eZDataType( EZ_DATATYPESTRING_WEATHER, "Weather", array( 'serialize_supported' => true ) );
+       	parent::__construct( EZ_DATATYPESTRING_WEATHER, "Weather", array( 'serialize_supported' => true ) );
    	}
 
    	function validateObjectAttributeHTTPInput( $http, $base, $contentObjectAttribute )
